@@ -1,0 +1,1 @@
+## Haven't yet included the image_url, since every webpage doesn't have a loadable image where a link can be extracted. I will be implementing the work-arounds soon.
